@@ -1408,31 +1408,32 @@ Proceed to Route Handler OR Return 403 Forbidden
 ## 17. Budget Estimate
 
 **Development Time:** 4-6 weeks  
-**Hourly Rate (equivalent):** PKR 2,000/day  
+**Hourly Rate (equivalent):** PKR 3,500/day  
 **Total Days:** 22-31 days
 
 **Cost Breakdown:**
 
-- Backend Development: PKR 20,000 - 25,000
-- Frontend Development: PKR 15,000 - 20,000
-- Testing & QA: PKR 8,000 - 10,000
-- Documentation: PKR 5,000 - 7,000
-- Deployment & Support: PKR 2,000 - 3,000
+- Backend Development: PKR 35,000 - 45,000
+- Frontend Development: PKR 30,000 - 40,000
+- Testing & QA: PKR 15,000 - 20,000
+- Documentation: PKR 10,000 - 15,000
+- Deployment & Support: PKR 10,000 - 15,000
 
-**Total Estimated Cost:** PKR 50,000 - 60,000
+**Total Estimated Cost:** PKR 100,000 - 135,000
+
+**Recommended Fixed Price:** **PKR 150,000**
 
 **Payment Terms:**
 
-- Advance (30%): PKR 15,000 - 18,000
-- Milestone 1 (Database + Backend, 40%): PKR 20,000 - 24,000
-- Final (Deployment, 30%): PKR 15,000 - 18,000
+- Advance (30%): PKR 45,000
+- Milestone 1 (Database + Backend, 40%): PKR 60,000
+- Final (Deployment, 30%): PKR 45,000
 
 **Includes:**
 
 - Full implementation as specified
 - 2 weeks post-deployment bug fix support
 - Documentation and training
-- Source code ownership transfer
 
 ---
 
